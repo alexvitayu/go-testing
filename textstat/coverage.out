@@ -1,0 +1,8 @@
+mode: set
+github.com/alexvitayu/go-testing/textstat/textstat.go:9.41,10.29 1 1
+github.com/alexvitayu/go-testing/textstat/textstat.go:10.29,12.3 1 1
+github.com/alexvitayu/go-testing/textstat/textstat.go:13.2,15.27 3 1
+github.com/alexvitayu/go-testing/textstat/textstat.go:15.27,17.14 2 1
+github.com/alexvitayu/go-testing/textstat/textstat.go:17.14,18.12 1 0
+github.com/alexvitayu/go-testing/textstat/textstat.go:20.3,20.12 1 1
+github.com/alexvitayu/go-testing/textstat/textstat.go:22.2,22.13 1 1
